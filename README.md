@@ -1,5 +1,6 @@
 # [hammer.js][hammerjs-url]  [![NPM Version][npm-image]][npm-url]  [![NPM Downloads][downloads-image]][downloads-url]  [![Build Status][travis-image]][travis-url]
 > A JavaScript library for detecting touch gestures.
+Can be user for heatmap detection
 
 
 ## Installation
